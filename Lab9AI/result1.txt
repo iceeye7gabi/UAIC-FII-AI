@@ -1,0 +1,33 @@
+Computer architecture deals with the 
+Computer architects use parallelism and 
+Computer architecture requires strong communication 
+Computer architectures that can execute 
+Computer scientists are also involved 
+Computer scientists are involved in 
+Computers host websites composed of HTML and send text messages 
+Current research includes cache design and algorithms that 
+larger capacity than main or cache memory. 
+Computer architecture requires strong communication between computer scientists and 
+an advantage of a distributed database is that data replicated 
+modeling, algorithms, data structures, networking, database design, symbolic computation, and 
+interactive drawing tool and an engineering interface to simulation and 
+design (CAD) tools that support engineers in the various stages 
+memory stick (also called a flash drive). 
+they both focus fundamentally on hardware design. 
+unit and interpreted by the hardware circuitry. 
+encoding this specification into a hardware description language, and breaking 
+extremely efficient algorithms and state-of-the-art hardware are needed to accomplish 
+VLSI microprocessor design occurs in a 
+example, in 1971 the first microprocessor chip (Intel Corporation’s 4004) 
+powerful arrays of processors (called multiprocessors or supercomputers) that allow 
+Computer architects use parallelism and various strategies for 
+be used for designing objects ranging from automobile parts to 
+an interface that includes both software and hardware. 
+Medical imaging applications involve the visualization of data obtained from 
+Scientific visualization uses massive amounts of 
+where on the chip each component should be placed and 
+replicated so that the backup component can take over if 
+interface design impacts the life cycle of software, so it 
+field that deals with the display and control of images 
+pictures are inadequate, and rapid display of real-time images is 
+Most importantly, computer languages include conditional instructions—essentially, rules 

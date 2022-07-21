@@ -1,0 +1,20 @@
+function alphabeta(node, depth, α, β, expectedK) is
+    if depth = 0 or node is a terminal node then
+            expectedK needed here
+        return the heuristic value of node   # euristica reutrneaza -1 daca expectedK primit != k_real  else un possibleCombinationCount
+    if maximizingPlayer then   # depth = 1
+        value := −∞
+        for each child of node do  # for i in 0, k
+            value := max(value, alphabeta(child, depth − 1, α, β,i))
+            if value ≥ β then
+                break (* β cutoff *)
+            α := max(α, value)
+        return value
+    else
+        value := +∞    # depth = 2
+        for each child of node do  # generare pick-uri
+            value := min(value, alphabeta(child, depth − 1, α, β))
+            if value ≤ α then
+                break (* α cutoff *)
+            β := min(β, value)
+        return value
